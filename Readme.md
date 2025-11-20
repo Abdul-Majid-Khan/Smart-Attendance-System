@@ -35,7 +35,8 @@ This project is a face recognition-based attendance system using Python, OpenCV,
 
 3. **Add known face images:**
     - Place the images of the known individuals in the `photos` directory.
-    - Update the script to load these images and their encodings.
+    - Update the script to load these images and their encodings.to get the correct result face encoding is necessary
+    - 
 
 ## Usage
 
